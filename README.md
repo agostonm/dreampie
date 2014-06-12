@@ -1,4 +1,4 @@
 dreampie
 ========
 
-Our own dreampie software
+Our Own DreamPie Software
